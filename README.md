@@ -2,8 +2,6 @@
 
 ### Operations leader and product builder.
 
-I build practical products that turn complicated workflows into clear, useful experiences. My work spans browser automation, sports simulation, and restaurant operations—from the first product decision through launch and day-to-day improvement.
-
 [Portfolio](https://dylanfox.work) · [Book a meeting](https://calendly.com/dylan-dylanfox/30min)
 
 ## Selected products
