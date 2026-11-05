@@ -8,10 +8,9 @@
 
 | Project | What it does | Status |
 | --- | --- | --- |
+| [Kahllo](https://github.com/dylanfox-work/kahllo) | An online ordering platform that delivers validated restaurant orders through automated phone calls. | **Coming soon** |
+| **AlertWork Extensions** · [AlertWork](https://github.com/dylanfox-work/alertwork) · [Nepsis](https://github.com/dylanfox-work/nepsis) | Two privacy-minded Chrome extensions for page monitoring, automation, and contextual reflection. | **Live** · [Chrome Web Store](https://chromewebstore.google.com/detail/alertwork/pdnpndkfmldfhcpcpkpfpammkkcakfjd) |
 | [SAC Football V2](https://github.com/dylanfox-work/sac-football-v2) | A browser-first football simulation platform built around play-calling, league creation, and live competition. | **Live** |
-| [AlertWork](https://github.com/dylanfox-work/alertwork) | A privacy-first Chrome extension for monitoring web pages and responding when selected conditions change. | **Live** · [Chrome Web Store](https://chromewebstore.google.com/detail/alertwork/pdnpndkfmldfhcpcpkpfpammkkcakfjd) |
-| [Nepsis](https://github.com/dylanfox-work/nepsis) | A local-first browser extension that connects what a person is reading with a timely Christian reflection. | **Live** |
-| [Fox Ordering Systems](https://github.com/dylanfox-work/fox-ordering-systems) | A pickup-ordering platform designed to turn digital orders into a dependable restaurant workflow. | **Coming soon** |
 
 ## How this GitHub is organized
 
